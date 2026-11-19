@@ -1,0 +1,6 @@
+# Legacy exploratory pilots; pin exact versions in published experiment manifests.
+numpy>=1.26,<3
+regex>=2024.0.0
+torch>=2.4,<3
+# Optional for archived figures
+matplotlib>=3.8,<4

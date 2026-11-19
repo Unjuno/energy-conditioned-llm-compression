@@ -1,0 +1,4 @@
+arm,n_evaluation_seeds,mean_parameter_reduction_percent,mean_heldout_ce_delta_nats_per_token,quality_guard_passes,measured_joules
+control,3,0.92,0.086,1,NA
+energy_proxy,3,1.88,0.266,1,NA
+parameter_proxy,3,2.12,0.211,0,NA
